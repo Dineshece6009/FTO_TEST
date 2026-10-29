@@ -1,0 +1,19 @@
+Name: Tags
+Type: FolderType
+Children:
+- Name: Angle
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Angle"
+- Name: Cycle_time
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Cycle_time"
